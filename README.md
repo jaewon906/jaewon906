@@ -1,6 +1,7 @@
 ## 안녕하세요! 박재원의 깃허브입니다.😁😁
 
-
+<center>
+  
 ### 🔨Stack🔧
 
 ##### Techs that I`ve used at least once
@@ -9,6 +10,10 @@
 <br/>
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
+  
+</center>
 
 #
 <br/><br/>
