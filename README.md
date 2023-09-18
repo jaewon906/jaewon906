@@ -1,6 +1,7 @@
-## 안녕하세요! 박재원의 깃허브입니다.😁😁
+<div align="center">
+  
+## 안녕하세요! 박재원의 깃허브입니다.😁😁 
 
-<center>
   
 ### 🔨Stack🔧
 
@@ -13,7 +14,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   
-</center>
+</div>
 
 #
 <br/><br/>
