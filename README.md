@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/MariaDB-179287?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-E34F26?style=flat-square&logo=Mybatis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Redis-F80000?style=flat-square&logo=Redis&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
