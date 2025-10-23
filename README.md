@@ -11,14 +11,25 @@
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-6DB33F?style=flat-square&logo=Vue&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nginx-1572B6?style=flat-square&logo=Nginx&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Wildfly-1572B6?style=flat-square&logo=Wildfly&logoColor=white"/> 
+<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-179287?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mybatis-E34F26?style=flat-square&logo=Mybatis&logoColor=white"/> 
+<br/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-179287?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-F7DF1E?style=flat-square&logo=Jira&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jenkins-E34F26?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=Docker&logoColor=white"/>
+<br/>
   
 
 
